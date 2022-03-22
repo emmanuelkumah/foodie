@@ -1,7 +1,7 @@
 import React from "react";
 import classes from "./Hero.module.css";
 import heroImage from "./womanIce.png";
-import abstrcBckgrnd from "./backgrndAbstract.png";
+import abstrcBckgrnd from "./circleAbstract.png";
 
 function Hero() {
   return (
