@@ -1,14 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Karla:wght@700&family=Poppins:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@700&family=Poppins:wght@400;600&family=Raleway:wght@400;700&display=swap");
 * {
   margin: 0;
   padding: 0;
 }
-:root {
-  --bckgrndColor: #ecf0f1;
-  --primaryColor: #023047;
-  --secndryColor: #ffb703;
-  --secndryColorTwo: #17c3b2;
-}
+
 body {
   height: auto;
   background-color: var(--bckgrndColor);
